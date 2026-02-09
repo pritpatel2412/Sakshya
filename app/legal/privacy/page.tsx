@@ -21,7 +21,7 @@ export default function PrivacyPage() {
           <div className="prose prose-sm max-w-none text-foreground space-y-6">
             <div>
               <h2 className="text-2xl font-bold text-[hsl(var(--primary))] mb-4">1. Introduction</h2>
-              <p>VeriCred ("we", "our", or "us") operates the VeriCred website. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
+              <p>Sakshya ("we", "our", or "us") operates the Sakshya website. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
             </div>
 
             <div>
@@ -38,7 +38,7 @@ export default function PrivacyPage() {
 
             <div>
               <h2 className="text-2xl font-bold text-[hsl(var(--primary))] mb-4">3. Use of Data</h2>
-              <p>VeriCred uses the collected data for various purposes:</p>
+              <p>Sakshya uses the collected data for various purposes:</p>
               <ul className="list-disc pl-6 space-y-2">
                 <li>To provide and maintain our Service</li>
                 <li>To notify you about changes to our Service</li>

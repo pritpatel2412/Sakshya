@@ -1,8 +1,8 @@
-# VeriCred - Production Ready Setup
+# Sakshya - Production Ready Setup
 
 ## Project Overview
 
-VeriCred is a digital credential verification platform that allows users to securely store, manage, and share verified credentials using blockchain technology. The app is built with Next.js 16, Supabase for authentication and database, and the Bubblegum design system.
+Sakshya is a digital credential verification platform that allows users to securely store, manage, and share verified credentials using blockchain technology. The app is built with Next.js 16, Supabase for authentication and database, and the Bubblegum design system.
 
 ## Key Features Implemented
 

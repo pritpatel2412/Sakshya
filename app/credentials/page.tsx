@@ -89,7 +89,7 @@ export default function CredentialsPage() {
             <div className="flex items-center gap-8">
               <Link href="/dashboard">
                 <h1 className="text-3xl font-bold text-[hsl(var(--primary))] cursor-pointer hover:opacity-80">
-                  VeriCred
+                  Sakshya
                 </h1>
               </Link>
               <nav className="flex gap-6">

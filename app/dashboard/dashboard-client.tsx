@@ -83,7 +83,7 @@ export default function DashboardClient() {
                             <div className="bg-gradient-to-r from-pink-500 to-purple-600 p-2 rounded-lg">
                                 <ShieldCheck className="w-6 h-6 text-white" />
                             </div>
-                            <h1 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-purple-200">VeriCred</h1>
+                            <h1 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-purple-200">Sakshya</h1>
                         </div>
 
                         <div className="flex items-center gap-4">
@@ -235,7 +235,7 @@ export default function DashboardClient() {
                     <div className="flex justify-center pt-8 border-t border-white/10">
                         <p className="text-sm text-gray-400 flex items-center gap-2">
                             <ShieldCheck className="w-4 h-4 text-green-500" />
-                            Protected by VeriCred Blockchain Protocol v2.0
+                            Protected by Sakshya Blockchain Protocol v2.0
                         </p>
                     </div>
 

@@ -1,6 +1,6 @@
-# VeriCred - Secure Digital Credential Vault
+# Sakshya - Secure Digital Credential Vault
 
-VeriCred is a modern, secure platform for storing, verifying, and sharing digital credentials with blockchain-backed authentication. Built with Next.js, Supabase, and the beautiful Bubblegum design system.
+Sakshya is a modern, secure platform for storing, verifying, and sharing digital credentials with blockchain-backed authentication. Built with Next.js, Supabase, and the beautiful Bubblegum design system.
 
 ## Features
 
@@ -180,7 +180,7 @@ scripts/
 
 ## Design System - Bubblegum
 
-VeriCred uses the beautiful Bubblegum design system with:
+Sakshya uses the beautiful Bubblegum design system with:
 
 - **Primary**: Pink (#E94B89)
 - **Secondary**: Teal (#6AC3C8)

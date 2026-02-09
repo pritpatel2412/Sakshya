@@ -1,4 +1,4 @@
-# VeriCred Production Checklist
+# Sakshya Production Checklist
 
 ## Pre-Launch Verification
 

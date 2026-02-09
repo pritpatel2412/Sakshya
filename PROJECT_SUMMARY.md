@@ -1,4 +1,4 @@
-# VeriCred - Complete Application Summary
+# Sakshya - Complete Application Summary
 
 ## ✅ What's Been Built
 

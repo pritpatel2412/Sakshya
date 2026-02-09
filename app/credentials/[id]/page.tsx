@@ -73,7 +73,7 @@ export default function CredentialDetailPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <Link href="/dashboard">
               <h1 className="text-3xl font-bold text-[hsl(var(--primary))] cursor-pointer hover:opacity-80">
-                VeriCred
+                Sakshya
               </h1>
             </Link>
           </div>
@@ -92,7 +92,7 @@ export default function CredentialDetailPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <Link href="/dashboard">
               <h1 className="text-3xl font-bold text-[hsl(var(--primary))] cursor-pointer hover:opacity-80">
-                VeriCred
+                Sakshya
               </h1>
             </Link>
           </div>
@@ -121,7 +121,7 @@ export default function CredentialDetailPage() {
           <div className="flex justify-between items-center">
             <Link href="/dashboard">
               <h1 className="text-3xl font-bold text-[hsl(var(--primary))] cursor-pointer hover:opacity-80">
-                VeriCred
+                Sakshya
               </h1>
             </Link>
             <Button

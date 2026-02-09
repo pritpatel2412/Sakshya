@@ -15,7 +15,7 @@ export default function Page() {
             <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center">
               <CheckCircle className="w-6 h-6 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">VeriCred</span>
+            <span className="text-xl font-bold text-foreground">Sakshya</span>
           </div>
           <div className="flex items-center gap-4">
             <Link href="/auth/login">
@@ -94,7 +94,7 @@ export default function Page() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-4">
-              Why Choose VeriCred?
+              Why Choose Sakshya?
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               A complete solution for managing and verifying your digital credentials
@@ -132,9 +132,8 @@ export default function Page() {
                     className={`w-16 h-16 ${feature.accent} rounded-full flex items-center justify-center mx-auto mb-6`}
                   >
                     <IconComponent
-                      className={`w-8 h-8 ${
-                        feature.accent === 'bg-accent' ? 'text-foreground' : 'text-background'
-                      }`}
+                      className={`w-8 h-8 ${feature.accent === 'bg-accent' ? 'text-foreground' : 'text-background'
+                        }`}
                     />
                   </div>
                   <h3 className="text-xl font-bold text-foreground mb-3">{feature.title}</h3>
@@ -208,7 +207,7 @@ export default function Page() {
       {/* Footer */}
       <footer className="border-t border-border bg-card mt-16 py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-muted-foreground text-sm">
-          <p>&copy; 2024 VeriCred. All rights reserved.</p>
+          <p>&copy; 2024 Sakshya. All rights reserved.</p>
         </div>
       </footer>
     </div>

@@ -21,7 +21,7 @@ export default function SignUpSuccessPage() {
         </CardHeader>
         <CardContent className="space-y-4">
           <p className="text-foreground text-center">
-            We've sent a confirmation link to your email address. Please click it to verify your account and start using VeriCred.
+            We've sent a confirmation link to your email address. Please click it to verify your account and start using Sakshya.
           </p>
 
           <div className="pt-4 space-y-3">

@@ -29,7 +29,7 @@ export default function LoginPage() {
 
       // Simulate login delay
       await new Promise(resolve => setTimeout(resolve, 800))
-      
+
       // Store user in localStorage (demo mode)
       localStorage.setItem('vericred_user', JSON.stringify({ email, loggedInAt: new Date() }))
       router.push('/dashboard')
@@ -43,7 +43,7 @@ export default function LoginPage() {
     <div className="min-h-screen bg-gradient-to-b from-[hsl(var(--background))] to-[hsl(var(--accent))] flex items-center justify-center p-4">
       <Card className="w-full max-w-md border-2 border-[hsl(var(--primary))]">
         <CardHeader className="text-center">
-          <CardTitle className="text-3xl font-bold text-[hsl(var(--primary))]">VeriCred</CardTitle>
+          <CardTitle className="text-3xl font-bold text-[hsl(var(--primary))]">Sakshya</CardTitle>
           <CardDescription className="text-base mt-2">Sign in to your credential vault</CardDescription>
         </CardHeader>
         <CardContent>

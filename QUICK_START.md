@@ -1,4 +1,4 @@
-# VeriCred - Quick Start Guide
+# Sakshya - Quick Start Guide
 
 ## 🚀 Get Started in 5 Minutes
 
@@ -74,7 +74,7 @@ module.exports = {
 ```
 
 ### Update Brand Name
-Find "VeriCred" in these files and replace:
+Find "Sakshya" in these files and replace:
 - `app/page.tsx` (landing page)
 - `app/layout.tsx` (site title)
 - `app/dashboard/page.tsx` (app name)
@@ -154,7 +154,7 @@ Edit `app/globals.css`:
 ```bash
 git init
 git add .
-git commit -m "Initial VeriCred setup"
+git commit -m "Initial Sakshya setup"
 git remote add origin https://github.com/yourname/vericred.git
 git push -u origin main
 ```

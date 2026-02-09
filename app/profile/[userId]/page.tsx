@@ -7,13 +7,13 @@ import Link from 'next/link'
 
 export default function PublicProfilePage({ params }: { params: Promise<{ userId: string }> }) {
   const { userId } = use(params)
-  
+
   return (
     <div className="min-h-screen bg-gradient-to-b from-[hsl(var(--background))] to-[hsl(var(--accent))]">
       <nav className="bg-white border-b-2 border-[hsl(var(--primary))]">
         <div className="max-w-7xl mx-auto px-4 py-4">
           <Link href="/">
-            <h1 className="text-2xl font-bold text-[hsl(var(--primary))] hover:opacity-80 cursor-pointer">VeriCred</h1>
+            <h1 className="text-2xl font-bold text-[hsl(var(--primary))] hover:opacity-80 cursor-pointer">Sakshya</h1>
           </Link>
         </div>
       </nav>

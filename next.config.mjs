@@ -1,11 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  typescript: {
-    ignoreBuildErrors: true,
+  // Disable webpack cache on Windows to avoid cache corruption issues
+  webpack: (config, { isServer }) => {
+    config.cache = false;
+    return config;
   },
-  images: {
-    unoptimized: true,
-  },
-}
+};
 
-export default nextConfig
+export default nextConfig;
